@@ -492,7 +492,7 @@ aprendizagens destas instituições. A aprendizagem da firma depende se sua orga
 interna, enquanto a do mercado depende de fatores técnicos e institucionais, assim como
 das firmas que o compõem individualmente e como sistema.
 /authorcomments2{Bretton Woods foi um sistema que facilitou a aprendizagem porque
-estabilizou o ambiente}
+estabilizou o ambiente.}
 
 ** Integração vertical
 ** Modularidade
