@@ -1,0 +1,514 @@
+#+TITLE: Monografia FEA USP
+#+AUTHOR: Richard Barana Block Moura
+
+* 1970
+** TODO Vietnam
+** TODO Irã 1979
+** TODO Petróleo 1973/1974
+*** Israel
+*** Árabes
+
+* 1945-1973
+** TODO Bretton Woods
+
+* DONE Industrial
+
+Começo esta discussão apresentando uma tabela na qual seu autor, Simon Kuznets, separa as
+indústrias americanas em quatro grupos, classificadas de acordo com sua fatia de mercado
+no setor industrial, e seu fator de crescimento, entre 1880 e 1948.
+
+|                                                | Fatias de mercado, em valor do produto (em %) |
+|                                                |-----------------------------------------------|
+|                                                |                                               |
+
+Temos uma clara percepção de fases do crescimento industrial nacional. As indústrias do
+grupo =A= foram aquelas que tiveram crescimento mais recente, impulsionadas por mudanças
+tecnológicas ou novas situações de mercado, como novas ofertas de matérias-primas ou novas
+demandas. Neste grupo incluem as indústrias de petróleo, borracha, químicos, veículos de
+motores, e máquinas elétricas e equipamentos. No grupo =B= estão as indústrias que tiveram
+grande crescimento mas num momento anterior. Destaco neste grupo a indústria do ferro e aço.
+
+Em torno das indústrias dos grupos =A= e =B= se concentraram as modernas empresas
+industriais[fn:1]. Capital-intensivas, permitiram os maiores ganhos de economias de escala e
+escopo, e nelas as grandes e integradas firmas se desenvolveram. Por serem fundamentais
+para o entendimento do crescimento das firmas industriais, apresento as principais
+características de economias de escala e economias de escopo:
+
++ Economias de escala:
++ Economias de escopo:
+
+As economias de escala e escopo aparecem de forma mais determinante em indústrias
+específicas, as que são mais capital-intensivas, e as de tecnologia mais complexa de
+produção e produtos tecnologicamente mais complexos. Nestes segmentos, classificados como
+os grupos =A= e =B= da Tabela 1, o crescimento econômico foi mais dinâmico, e suas firmas,
+após dominarem o mercado nacional, passaram a ser as líderes do mercado global.
+
+A seguir, apresento algumas dessas indústrias -- a ferrovia e o telégrafo, petróleo,
+borracha, metais, químicas e máquinas elétricas e equipamentos -- sem o objetivo de ser
+exaustivo. Suas histórias revelam muito sobre o processo que vai da tecnologia, passa pela
+organização de cada firma, sua estratégia, competição, e estrutura dos mercados.
+
+** A Ferrovia e o Telégrafo
+
+A tecnologia que deu origem à ferrovia possibilitou o uso moderno das economias de
+escala. Economias de escala dependem do fluxo contínuo e previsível de bens. As próprias
+ferrovias dependiam, pois eram companhias com altos custos fixos. Estima-se que $2/3$ dos
+custos totais eram custos fixos.
+
+Para lidar com este volume de custos fixos e manter as economias de escala, a ferrovia
+usou de outro tipo de economia, as economias de escopo. Desde o início de seu
+funcionamento, a ferrovia era usada para o transporte de vários tipos de produtos. Quando
+a especificade de produtos ameaçou o volume transportado, duas medidas foram tomadas: a
+primeira, era a de que as companhias passariam a compartilhar os trilhos para a passagem
+de veículos de outras companhias. A segunda medida foi a de terceirizar a construção de
+novas locomotivas e veículos. As firmas que desejassem transportar seus produtos por meio
+das ferrovias e tivessem a necessidade de locomotivas ou veículos específicos para seus
+produtos, deveriam investir na construção destes equipamentos. Os investimentos foram
+tomados: a Standard Oil Company investiu em carros-tanque, frigoríficos criaram e
+desenvolveram carros refrigerados, entre outros.
+
+As duas medidas tiveram outros efeitos. As firmas que faziam uso das ferrovias aumentaram
+seus ativos, investindo na construção dos carros. E a passagem destes carros
+inter-companhias levou à necessidade de padronização de equipamentos e medidores de pista,
+e de novos procedimentos organizacionais, para controlar e cobrar veículos de outras companhias.
+
+As ferrovias dos anos de 1850 são consideradas as pioneiras da organização moderna de
+firmas. A isto se deve uma característica das primeiras pistas: eram pistas simples. As
+pistas simples significavam maior necessidade de organização da companhia, para coordenar
+o fluxo dos trens e tornar sua operação mais segura. As companhias passaram a operar em
+divisões, unidades operacionais para cada pista, e administradores passaram a controlar as
+operações.
+
+As ferrovias são um ótimo exemplo para mostrar como a interação inter-indústrias pode
+potencializar o desenvolvimento econômico. A expansão do telégrafo deve muito à expansão
+da ferrovia, assim como a expansão da ferrovia foi facilitada pelo telégrafo. As pistas
+ferroviárias forneceram um ótimo caminho para a instalação do telégrafo, e o telégrafo
+serviu como instrumento para tornar a operação da ferrovia mais segura, facilitando a
+coordenação entre as divisões.
+
+O funcionamento das ferrovias e do telégrafo permitiu que as indústrias de transporte e
+comunicação servissem para criar economias de escala em outras indústrias.
+
+** Petróleo
+
+A indústria do Petróleo -- extração, refino, distribuição -- no seu início resumia-se numa
+empresa, Standard Oil Company. Incorporada em 1870, era uma gigante desde os primeiros
+anos. Suas instalações em Cleveland, 1869, se equivaliam ao tamanho das outras três
+maiores refinarias da região combinadas.
+
+Uma série de associações de comércio e consolidações (fusões e aquisições) iniciou-se
+principalmente a partir dos anos de 1870, numa tentativa de prevenir a queda nos preços
+dos produtos industriais, controlando preços e produtos. Os pioneiros que fizeram os
+investimentos, no início, não reduziram os custos o bastante para tirar do mercado os
+produtores menores. O excesso de capacidade levou à queda nos preços.
+
+Para se proteger da queda nos preços, a Standard Oil passa a trocar ativos por ativos em
+outras trinta refinarias, e forma uma federação, conhecida como Standard Oil
+/alliance/. Em 1882 passa a ser Standard Oil Trust, por um acontecimento que ameaça sua
+posição no mercado. Alguns produtores de petróleo cru, desejosos em escapar da influência
+da aliança nas taxas de transporte por ferrovias, investem em uma inovação: oleodutos de
+longa distância. Estes mesmos produtores formam, em 1878, a Tide Water Oil Company.
+
+A Standard Oil Trust de John D. Rockfeller é formada, e percebendo os enormes ganhos de
+custos que os oleodutos proporcionam, além de áreas de estoque, faz um investimento neles
+de \$ 30 milhões, num momento que seus ativos totais valiam \$ 3 milhões. O Trust foi
+pioneiro neste tipo de organização. Centralizou as decisões e racionalizou a
+produção. Percebeu as grandes economias de escala que o refino permitia, e nos primeiros
+cinco anos reduziu o número de refinarias de 53 para 22, concentradas principalmente em
+três. Os custos unitários médios se reduzem ainda mais, de 1.5 para 0.45 centavos de
+dólar. As demais refinarias se ocupariam de produtos específicos, como vaselina, parafina, cera e
+lubrificantes. No final dos anos 1880, criou subsidiárias e instalações de estoque em
+outros países. A Standard Oil Trust se torna um incumbente a nível global.
+
+Em 1889, em New Jersey, são aprovadas leis gerais de incorporação que autorizam a formação
+de /holdings/ em escala nacional. Sob esta nova forma, outras firmas centralizam e
+racionalizam a produção. Neste mesmo ano, a Standard Oil toma uma posição defensiva e
+entra na extração de petróleo cru. Esta decisão é fruto de mudanças na oferta de petróleo
+cru, e na demanda de consumidores por produtos das refinarias.
+
+A Standard Oil comprava petróleo principalmente dos campos da Pennsylvania, mas assim que
+o estoque de petróleo destes campos começou a cair, os produtores começaram a combinar
+para controlar preços. Ao mesmo tempo, foram descobertos novos campos de petróleo em Ohio
+e Indiana, o que fez surgir novos produtores e refinarias na região. Na virada do século,
+com a difusão do uso de eletricidade e o boom dos automóveis, a demanda de um dos
+principais produtos das refinarias, o querosene, caiu, e em seu lugar a gasolina passa a
+ser o produto mais demandado. A alteração na demanda, e a intensificação da competição no
+mercado, altera a estrutura da indústria assim como das firmas.
+
+Entre 1900 e 1910, a estrutura da indústria se transforma. O monopólio passa a ser um
+oligopólio de companhias completamente integradas. As firmas do oligopólio foram aquelas
+bem-sucedidas em fazer os três investimentos necessários, em produção, construíram grandes
+instalações para explorar as economias de escala, em marketing, a venda dos produtos
+dependia de uma grande rede de vendas e distribuição, e em administração, pela
+centralização do comando, coordenação dos departamentos e racionalização da produção.
+
+A partir de 1911, a competição por parcelas de mercado não é uma competição de preços, no
+qual as firmas que oferecem produtos a preços menores garantem maiores ofertas e
+mercado. É uma competição funcional e estratégica que depende fundamentalmente das
+capacidades organizacionais das firmas. A capacidade organizacional de uma firma incluem
+as suas instalações e suas habilidades -- tanto as de seus empregados, quanto aquelas
+desenvolvidas pelas técnicas de produção, acumuladas ao longo do tempo. A competição
+funcional é baseada nos processos de desenvolvimento, e a competição estratégica é a
+disputa geográfica por novos mercados.
+
+Entre 1919 e 1929, o volume produzido pelas refinarias cresceu 270%, enquanto o número de
+estabelecimentos aumentou somente 22% e o número de funcionários 29%.
+
+** Borracha
+
+Os ganhos decorrentes de economias de escala foram ainda mais impressionantes no caso da
+indústria de borracha. Desenvolvimentos de processos de produção resultaram, entre 1914 e
+1935, em crescimento de 433% da produção por empregado-hora na indústria de pneus.
+
+A indústria de borracha era dividida na produção de três tipos de bens: vestuário, como
+botas e luvas; itens industriais, como mangueiras, correias e materiais de isolamento; e
+pneus. Na produção dos dois primeiros tipos de bens, as vantagens de custo associadas às
+economias de escala eram muito menores do que no refino de petróleo, e portanto nenhum
+monopólio se desenvolveu.
+
+Em ambas indústrias, uma /holding/ se formou englobando a indústria toda. Em 1892 a United
+States Rubber Company representava a indústria de vestuário, e a Mechanical Rubber Company
+a indústria de itens industriais. A partir de 1899 a Mechanical Rubber Company passa a se
+chamar Rubber Goods Manufacturing Company. Em 1905 a United States Rubber Company adquire
+a Rubber Goods Manufacturing Company, e passa a competir com uma firma independente, a
+B. F. Goodrich, que entra no mercado de vestuários.
+
+São duas novas companhias que, impulsionadas pelo boom dos automóveis, tomam a liderança
+na produção de pneus, a Firestone Tire & Rubber e a Goodyear Tire & Rubber. O rápido
+crescimento na demanda por pneus para automóveis, que cresceu 100% entre 1910 e 1930,
+permitiu o crescimento das firmas que fizeram os investimentos necessários para aproveitar
+as grandes economias de escala desta indústria.
+
+** Metais Primários
+
+Para discutir a indústria de metais primários, escolhi contar a história da indústria do
+aço. Nesta indústria que surge uma gigante do período, a United States Steel
+Corporation. Viria a ser a maior empresa industrial do mundo, em ativos equivalia a quatro
+vezes àqueles da Standard Oil em 1915.
+
+O monopólio nesta indústria se tornaria um oligopólio exclusivamente por erros de decisão
+tomados pela incumbente. É um caso interessante também para mostrar como as inovações se
+relacionam com as firmas líderes do mercado.
+
+O conversor Bessemer foi uma importante inovação para a indústria do aço, e já vinha sendo
+aplicado na produção por algumas firmas. Mas Andrew Carnegie foi o primeiro a integrar o
+conversor numa gigante fábrica Bessemer de trilhos, a Edgar Thomson Works em Pittsburgh, a
+maior do mundo, em 1879. Carnegie foi o primeiro a explorar completamente as economias de
+escala associadas à nova tecnologia de produção do aço.
+
+A integração de novos processos de produção em grande escala continuou. Em 1881 começou a
+usar um grande conjunto de fornos "open-hearth" para a produção de aços de alta qualidade,
+e o primeiro "open-hearth" básico usando o processo Thomas-Gilchrist, na sua recém
+adquirida Homestead Works. Quando adquire a Duquesne Works começa a usar o novo processo
+"direct rolling", lá desenvolvido.
+
+Os maiores competidores da Carnegie são a Illinois Steel Company, e a Jones & Laughlin
+Steel, de Pittsburgh. Na década de 1880, a Carnegie e a Illinois mantém o crescimento
+estável no volume produzido, e a redução dos custos unitários, enquanto diversificam a
+produção para outras estruturas além de trilhos, melhorando as máquinas e as estruturas de
+produção constantemente, substituindo cada vez mais trabalho por capital. Quando seus
+volumes começam a crescer, tomam uma atitude igual àquela das refinarias, procuram
+garantir os seus insumos por meio da compra de minas de carvão e de ferro.
+
+Um movimento importante na indústria partiu das produtoras de bens secundários, também
+chamados de produtos fabricados. Assim que crescia a demanda por estes produtos, e as
+firmas cresciam, estes produtores começaram a integrar "para trás" na produção de aço,
+reduzindo as compras de lingotes de aço da Carnegie. A resposta da Carnegie foi começar a
+fabricar produtos secundários. Este movimento, aparentemente normal, provocaria grandes
+consequências.
+
+A empresa de J. P. Morgan, um banco de investimentos, tinha adquirido participação na
+formação da Federal Steel Company, pela fusão da Illinois com outras firmas em 1898, e na
+National Tube em 1899, uma empresa de produtos fabricados. A entrada da Carnegie neste
+mercado ameaçava o valor de mercado das companhias nas quais Morgan tinha investido. Em
+1901 Morgan assume a Carnegie pagando seu valor de mercado.
+
+Morgan então junta a Carnegie e a Federal Steel Company. Logo depois junta com as duas as
+firmas de produtos secundários: American Steel & Wire, National Tube, American Sheet
+Steel, American Steel Hoop, American Tin Plate, e em seguida Shelby Steel and Tube,
+American Bridge e Lake Superior Consolidated from Mines. Todas essas firmas passam a
+formar a United States Steel Corporation.
+
+A United States Steel Corporation passa a dominar o mercado de forma
+monopolística. Internamente passa por uma disputa: os representantes do banco Morgan,
+entre eles Elbert H. Gary, e os sucessores de Carnegie divergem quanto aos rumos da
+companhia. Gary assume como executivo-chefe em 1903, a favor de uma política de controle
+de preços mesmo que a custa de diminuição de volume e capacidade ociosa. Os sucessores de
+Carnegie se opõem a essa política, mas Gary segue adiante. A United States Steel perde
+consistentemente mercado, e lucros diminuem, enquanto as empresas menores desafiantes,
+protegidas por preços mais altos conseguem ganhar escala para competir. Quando Gary é
+tirado do comando, um oligopólio está configurado.
+
+** Indústria Química
+
+O crescimento das firmas da indústria química se insere numa nova fase da estrutura de
+mercado, estratégia e organização das firmas americanas. É uma fase na qual o crescimento
+se apóia principalmente sobre as economias de escopo, e competições funcional e
+estratégica que intensificam o papel das capacidades organizacionais. Se destacam neste
+período as indústrias de bens "branded, packaged"[fn:2], química e de máquinas. A
+indústria química e os fabricantes de equipamentos elétricos são os pioneiros num tipo de
+produção no qual a lucratividade de longo-prazo não depende tanto de inovações e invenções
+quanto do desenvolvimento de novos produtos para a produção em grande escala.
+
+Os processos de produção tecnologicamente mais complexos estão ligados à maiores economias
+de escopo, devido às maiores necessidades de capacidades organizacionais. As economias de
+escopo alteram a estrutura organizacional das firmas. As complexidades de coordenação,
+monitoramento, e alocação de recursos fez com que as firmas passassem a se organizar
+segundo uma estrutura administrativa multidivisional.
+
+Entre 1902 e 1904 é formada uma empresa que será a pioneira na estratégia de crescimento
+por meio de diversificação, e na formação da estrutura multidivisional. A empresa se chama
+E. I. du Pont de Nemours Powder Company[fn:3]. A du Pont cresceu principalmente durante a
+Primeira Guerra Mundial, que aumentou muito a demanda por seus explosivos. O fim da Guerra
+ameaçou tornar seus recursos subutilizados. A escala ótima de suas estruturas limitava o
+pleno aproveitamento de economias de escopo, mas existia um potencial para economias de
+escopo na empresa como um todo, inter-divisões.
+
+Entre as novas técnicas de produção usadas pela du Pont estão as fábricas-piloto, e o
+sistema unitário de produção. As fábricas-piloto eram montadas para os testes de
+eficiência antes que se fizesse os investimentos para aumentar a escala de produção. No
+sistema unitário de produção, cada unidade correspondia à uma única mudança física. É um
+sistema similar à linha de montagem da indústria de máquinas.
+
+O desenvolvimento de produtos começou a ser utilizado para manter o uso da capacidade
+instalada através das economias de escopo. Foi fundamental para manter as vendas durante a
+Grande Depressão. Mas o motivo principal por trás da diversificação estava nas
+oportunidades de mercado.
+
+A du Pont tinha um departamento de pesquisa associado ao escritório central, mais voltado
+para a pesquisa básica, chamado de Central Research Department, e outros específicos a
+cada linha de produtos. No Departamento Central, entre outros produtos, foram
+desenvolvidos o nylon e o neoprene, uma fibra e uma borracha sintéticas,
+respectivamente. No Departamento de Corantes, que em 1935 passaria a ser chamado de
+Químicos Orgânicos, foram desenvolvidos o Freon, um refrigerante para os novos
+refrigeradores domésticos, o Teflon, descoberto a partir do Freon, e o tetraethyllead,
+desenvolvido em conjunto com a General Motors, é um intermediário da produção de corantes
+usado como aditivo da gasolina para aumentar a eficiência do combustível.
+
+A diversificação e a estrutura multidivisional inaugurada pela du Pont em 1921 fez com que
+a competição se intensificasse grandemente a partir dos anos 1960, que trará consequências
+importantes, discutidas mais adiante.
+
+** Máquinas não-Elétricas - Transporte
+
+A indústria de equipamentos de transporte não-elétricos não se encaixa na nova fase
+descrita no tópico anterior. Sua expansão foi baseada fortemente em economias de
+escala. Em 1929 as firmas americanas produziam 85% dos automóveis fabricados em todo o
+mundo.
+
+A história da indústria automotiva é a história de uma indústria revolucionada por uma
+nova tecnologia, o motor interno de combustão, e na qual sua estrutura foi alterada por
+erros de decisão do incumbente, Henry Ford.
+
+Henry Ford criou uma empresa que dominou o mercado durante aproximadamente trinta
+anos. Foi na Highland Park Works, em Detroit, que temos a experiência bem-sucedida da
+moderna produção em massa, e da linha de montagem, em uso a partir de 1914. Ford
+concentrou sua produção em modelos para o mercado de preços baixos.
+
+Seu principal rival, a General Motors (GM), foi fundada em 1908 por uma fusão, e passou
+por um grande esforço no início. Em 1921, a GM tinha somente 12.3% do mercado de
+automóveis, contra 55.7% de Ford. Somente quando Pierre S. du Pont assumiu a companhia, e
+trouxe consigo Alfred P. Sloan Jr., que a GM passou a competir fortemente e roubar mercado
+de Ford. O novo comando implementou a estrutura multidivisional, com cada tipo de veículo
+com sua própria estrutura de produção e distribuição. Os veículos vendiam em diferentes
+faixas de preço no mercado.
+
+Sloan percebeu uma mudança: o principal consumo passou do primeiro carro aos carros de
+substituição. A GM produzia novos modelos, enquanto Ford produzia o mesmo carro em grande
+medida da mesma forma. Ford também centralizou demais as decisões da companhia em sua
+pessoa, abrindo mão de grandes administradores que foram parar na GM. Dessa forma, em 1940
+o mercado de veículos de passageiros se dividia em 18.9% para a Ford, e 47.5% no controle
+da GM.
+
+** Máquinas Elétricas e Eletrônicas
+
+A história da indústria de máquinas e equipamentos elétricos e eletrônicos é muito ampla e
+de difícil exposição, da mesma maneira que a da indústria química. Esta característica é
+resultado precisamente da característica que mais nos interessa nestas indústrias: a
+extensão a que foi levada a sua diversificação.
+
+As pioneiras na indústria foram a General Electric (GE), Westinghouse Electric e a Radio
+Corporation of America (RCA). Suas origens estão ligadas aos grandes inventores, como
+Thomson e Edison, que passaram a investir em suas invenções baseadas nas novas descobertas
+da energia elétrica.
+
+A tecnologia impulsionou a diversificação. A geração, transmissão e uso da energia
+elétrica requeriam a instalação de sistemas que envolviam uma grande variedade de partes e
+equipamentos. As empresas se tornam então construtoras de sistemas.
+
+Para se ter uma idéia da diversificação levada a cabo pela GE, olhemos para o número de
+suas linhas de produto: eram 10 em 1900, 70 em 1910, 85 em 1920, 193 em 1930 e 281
+em 1940.
+
+** Do Pós-Guerra aos anos 1970
+
+A empresa industrial moderna teve papel central nas indústrias tecnologicamente mais
+avançadas, e que mais cresceram e contribuíram para o crescimento econômico americano no
+período, entre 1880 e 1940. Na opinião de Chandler, falta à Economia uma teoria da
+evolução da firma como uma organização dinâmica. O seguinte esquema ajuda a entender como,
+para o autor, a empresa industrial moderna surge e define sua forma frente ao ambiente, no
+qual a tecnologia se insere, e à competição, no qual a firma participa para alterar a
+estrutura da indústria.
+
+[[caminho_do_arquivo/esquema.png]]
+
+O modelo tinha como objetivo o lucro no longo prazo, baseado no crescimento no longo
+prazo, porque dependia da criação e da particularmente complicada manutenção --
+"instalações depreciam e habilidades atrofiam" -- das capacidades organizacionais. O que
+as capacidades organizacionais de uma firma conferiam de vantagem competitiva é o que
+definia onde os ganhos retidos por esta firma seriam investidos.
+
+Nas duas décadas a partir de 1950, as firmas que surgem para explorar as novas tecnologias
+continuam a seguir o modelo de desenvolvimento adotado desde 1880-1890 que Chandler
+retrata. A única mas importante diferença é que estas já são firmas estabelecidas, mas que
+passam a investir em novas indústrias e produtos. A Xerox na indústria de copiadoras e a
+IBM na indústria de computadores são exemplos deste período. A diversificação e a expansão
+internacional, frutos da competição funcional e estratégica, são as forças por detrás da
+forte competição a partir de 1960. Reproduzo aqui duas tabelas que mostram o crescimento
+das subsidiárias americanas na Inglaterra e na Alemanha.
+
+Os anos 1960 são considerados como um ponto de inflexão. A competição pelas multinacionais
+e inter-indústria fez com que mudanças fossem apresentadas no crescimento, na
+administração e no financiamento das modernas empresas industrias, das quais seis não
+tinham precedentes:
+
+1. Adaptação de uma nova estratégia de crescimento em novos mercados, onde as capacidades
+   organizacionais não tem vantagem competitiva: Sem vantagem competitiva, as firmas não
+   podiam replicar modelo de investimento baseado nas suas capacidades organizacionais. A
+   tática adotada foi fazer fusões e aquisições nas novas indústrias, na busca por
+   potenciais de crescimento e competição diminuída. Em 1965 foram registradas 2000 fusões
+   e aquisições, saltando para 6000 em 1969. Entre 1963-1977, dos \threequarter de ativos
+   adquiridos para a diversificação de produtos, metade eram em produtos não relacionados
+   com a atividade principal da firma.
+2. Separação das decisões do topo da hierarquia administrativa dos escritórios centrais
+   das dos administradores intermediários nas divisões operacionais. Antes da Segunda
+   Guerra Mundial, eram raras mais de dez divisões no controle dos escritórios
+   centrais. Em 1969 eram comuns quarenta a setenta divisões, em alguns casos até
+   mais. Torna-se crescente a tomada de decisão baseada em estatísticas pelo topo
+   hierárquico, dado o número superlativo de informações frente o conhecimento limitado
+   destes atores.
+3. Contínuo e extensivo desinvestimento de divisões operacionais. A taxa de
+   desinvestimento para fusões e aquisições passa de menos do que 1 para 11 em 1965, para
+   1 para 8 em 1969, 1 para 2.3 em 1971 e 1 para 2 entre 1974-1977. Os desinvestimentos se
+   tornam aquisições e partes de fusões para outras companhias.
+4. Compras e vendas de corporações se tornam um negócio próprio. As operações de
+   desinvestimentos e fusões e aquisições fazem aparecer uma comunidade financeira
+   especializada neste mercado.
+5. Papel dos administradores de portfolio nos mercados de capital. Muda a natureza da
+   propriedade das firmas industriais, ações passam das mãos de ricos indivíduos e
+   famílias, companhias de seguro e departamentos de crédito dos bancos, para os
+   portfolios de pensão e fundos mútuos, a partir da Segunda Guerra Mundial. O objetivo
+   dos antigos proprietários era mais comumente o investimento para crescimento no longo
+   prazo, enquanto o objetivo dos novos proprietários é o ganho no curto prazo.
+6. "Mercado para controle corporativo". O volume de ações negociadas na Bolsa (New York
+   Stock Exchange) cresce sem precedentes, e facilita a compra de participação nas
+   empresas.
+
+As mudanças a partir de 1960 implicam na facilidade com que as empresas modernas
+industriais podem ser reestruturadas, na busca por novas fontes de lucratividade. Mas a
+alteração nos objetivos das firmas para a busca do lucro no curto prazo parece ter
+destruído as capacidades destas empresas, comprometendo as suas bases de crescimento.
+
+* TODO Dinâmica
+
+Firmas, organizações, ou mercados podem ser enxergados como instituições. Instituições são
+definidas como rotinas, hábitos, formas regulares de comportamento. No caso da firma é uma
+rotina produtiva que a define, e o seu repertório de rotinas são suas capacidades.
+
+Por que as firmas são criadas e o que define seus limites? Existem muitas explicações para
+o porquê da criação de processos produtivos num ente centralizado da firma. A economia dos
+custos de transação, uma corrente que se originou a partir de Coase, explica a firma como
+uma resposta ótima à um problema de incentivo. Deixam de lado a importante função de
+coordenação assegurada no seu âmbito. Importante em especial num ambiente de incerteza, e
+nos casos de inovações sistêmicas. Inovações sistêmicas se diferem das inovações autônomas
+porque envolvem a transformação de vários estágios de produção. Neste processo, a
+coordenação e os contratos mais imperfeitamente (quando comparados com transações "no
+mercado") especificados funcionam melhor para a destruição criativa de Schumpeter, a
+necessidade de tornar obsoletos ativos em uso enquanto capacidades previamente fora de uso
+são chamadas. A firma também diminui os custos de transação dinâmicos, porque pode menos
+custosamente redirecionar, coordenar e criar capacidades para fazer a inovação
+funcional. As ferrovias, por exemplo, geraram várias inovações sistêmicas, como no caso
+dos carros refrigerados.
+\authorcomments2{Rationale para as tecnologias revolucionárias?}
+
+Tão caros para explicar a revolução administrativa nas indústrias americanas que Chandler
+expõe, as economias de escala e escopo são explicadas pelos fatores que determinam os
+limites da firma, melhor compreendidos com a ajuda de um diagrama do prêmio de custo.
+
+[[caminho_do_arquivo/diagrama_costpremium.png]]
+
+Duas dimensões são necessárias para a determinação dos limites da firma. A primeira é
+determinada pelos custos de produção, aquilo que preocupou Adam Smith e os clássicos, e
+está mais relacionado ao longo prazo. Aproveitando nossa nomenclatura, os custos de
+produção relativos são a relação da força das capacidades de uma firma e a força das
+capacidades compráveis fora da firma. A outra dimensão trata dos custos de transação e
+governança nas compras ou criações de capacidades. Custos de transação são fenômenos de
+curto prazo. Como bem explicou Coase, ambas dimensões afetam a fronteira da firma /na
+margem/, ou seja, estamos interessados no ponto que o prêmio de custo iguala a zero. A
+firma acumulará atividades enquanto os custos de organizá-las internamente for menor do
+que os custos de realizá-las por meio do mercado, até que os custos se igualem e o prêmio
+iguale zero.
+
+Uma forma de explicar o problema dos limites da firma envolve enxergar o desenvolvimento
+determinado por um fenômeno que Adam Smith eternizou, a divisão do trabalho. Para Smith a
+especialização das atividades humanas é efeito da expansão do mercado. Young e Stigler
+deslocam a teoria para explicar a divisão de trabalho entre as firmas. Para Young, as
+firmas que surgem numa indústria nova são verticalmente integradas, e só podem se
+especializar assim que o produto começar a crescer de forma que novas firmas surjam para a
+produção dos bens intermediários. Economias de escala que diferem entre os estágios de
+produção podem induzir as especializações. Este é o argumento de Stigler, para o qual as
+atividades com retornos crescentes de escala, antes limitadas pelas atividades com
+retornos decrescentes de escala, podem ser diferenciadas para formar uma empresa própria,
+conforme os mercados se expandem (Ver a definição de economias de escala acima).
+
+Mas a divisão do trabalho é somente metade da história, porque só trata dos custos de
+produção. Queremos adicionar à história do longo prazo os custos de transação. Existem
+diferentes maneiras de determinar o que torna um prazo longo. Pode ser determinado pelos
+custos, o prazo no qual todos os custos se tornam variáveis. Mas preferimos a concepção de
+tempo real do longo prazo, baseado em Marshall que disse que o aprendizado faz com que o
+conhecimento e a organização melhorem ao longo do tempo, e ambos fazem com que a
+eficiência aumente. O longo prazo seria estabelecido quando os ajustes na organização e no
+conhecimento se tornassem pequenos. Difere da concepção neoclássica para a qual
+conhecimento é mantido fixo.
+
+Os custos de transação no longo prazo são produto da incerteza estrutural, o tipo de
+incerteza que não pode ser parametrizado. Hayek disse que "economic problems arise always
+and only in consequence of change." Contratos são incompletos quando as informações não
+são completas. Conforme a aprendizagem ocorre num ambiente estável, os custos de transação
+diminuem, os comportamentos tornam-se rotinas.
+
+Assumindo que no longo prazo os custos de transação internos (burocráticos) de uma firma
+aproximam de zero, os seus limites serão determinados por suas capacidades relativas aos
+do mercado. Ambas tendem a se modificar ao longo do tempo, aumentando. Além disso, aquilo
+que definimos como o núcleo intrínsico da firma é potencialmente constestável no longo
+prazo. A hipótese clássica, seguida por Young e Stigler, é a da predominânica dos mercados
+que dissolvem os núcleos intrinsícos. Como ilustrado na Figura a seguir, sob tal hipótese
+teremos especialização e desintegração vertical. A direção do sistema não segue
+necessariamente Young e Stigler, porque o sistema apresenta /path dependence/,
+i.e. depende dos estados passados (Hayek).
+
+A relação entre as capacidades das firmas e as capacidades do mercado depende das
+aprendizagens destas instituições. A aprendizagem da firma depende se sua organização
+interna, enquanto a do mercado depende de fatores técnicos e institucionais, assim como
+das firmas que o compõem individualmente e como sistema.
+/authorcomments2{Bretton Woods foi um sistema que facilitou a aprendizagem porque
+estabilizou o ambiente}
+
+** Integração vertical
+** Modularidade
+** "The Vanishing Hand"
+
+* TODO Internacionalização
+
+* TODO Guerra Fria
+
+[fn:1] Como definido por Chandler (1999).
+[fn:2] A expansão internacional e a diversificação são facilitadas para indústrias que não
+necessitam de serviços de marketing e estruturas de distribuição específicas, como é o
+caso de produtos "branded, packaged".
+[fn:3] A du Pont foi originalmente formada por meio de fusões, uma exceção na
+indústria. Indústrias que fazem uso de tecnologias mais revolucionárias, como a química,
+tem característica de empresas formadas por investimento direto. Indústrias com tecnologia
+mais do tipo evolucionárias favorecem a formação de companhias por fusões.
+[fn:4] Uma inovação sistêmica se diferencia de uma inovação autônoma porque esta última
+limita-se a mudança localizada em apenas uma atividade.
