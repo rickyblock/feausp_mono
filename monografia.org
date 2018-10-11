@@ -1,5 +1,12 @@
 #+TITLE: Monografia FEA USP
 #+AUTHOR: Richard Barana Block Moura
+#+LATEX_CLASS: aastex62
+#+LATEX_CLASS_OPTIONS: [modern]
+#+LATEX_HEADER: \setdefaultlanguage{Brazilian}
+#+LATEX_HEADER: \usepackage{polyglossia}
+#+LATEX_HEADER: \usepackage[fullfamily,opticals,footnotefigures]{MinionPro}
+#+LATEX_HEADER: \usepackage{microtype}
+#+LATEX_HEADER: \usepackage[toc,eqno,enum]{tabfigures}
 
 * 1970
 ** TODO Vietnam
@@ -17,10 +24,6 @@ Começo esta discussão apresentando uma tabela na qual seu autor, Simon Kuznets
 indústrias americanas em quatro grupos, classificadas de acordo com sua fatia de mercado
 no setor industrial, e seu fator de crescimento, entre 1880 e 1948.
 
-|                                                | Fatias de mercado, em valor do produto (em %) |
-|                                                |-----------------------------------------------|
-|                                                |                                               |
-
 Temos uma clara percepção de fases do crescimento industrial nacional. As indústrias do
 grupo =A= foram aquelas que tiveram crescimento mais recente, impulsionadas por mudanças
 tecnológicas ou novas situações de mercado, como novas ofertas de matérias-primas ou novas
@@ -35,7 +38,26 @@ para o entendimento do crescimento das firmas industriais, apresento as principa
 características de economias de escala e economias de escopo:
 
 + Economias de escala:
+As economias de escala podem ser melhor visualizadas pelas "séries paralelas" em
+Leijonhufvud, reproduzida na figura a seguir.
+
+caminho_arquivo:fig_parallel_series.png
+
+Quando algum estágio (ou atividade) de produção está sendo realizado com capacidade
+ociosa, seja ele realizado por um trabalhador ou uma máquina, convém à empresa montar
+séries paralelas de produção que abasteçam o estágio subutilizado. O resultado é um
+aumento de produto numa escala maior do que a dos fatores de produção adicionados.
+
 + Economias de escopo:
+Penrose sugeriu a visão de uma firma como um "pool of resources". As firmas apresentam a
+tendência de aquisição de recursos em excesso, materiais e humanos. Como os recursos podem
+ser realocados entre atividades a baixo custo marginal, a melhor estratégia para a firma é
+aplicá-los nos usos que melhor se adaptam aos tipos de conhecimento e escopo de operações,
+adquiridos de experiências prévias. Richardson, depois de Penrose, cunha o termo
+"capacidades" para se referir às habilidades, experiências e conhecimentos da firma, e
+argumentou que a nova atividade selecionada pela firma para os recursos em excesso deve
+demandar um conjunto de capacidades similar às já realizadas pela firma, e não
+complementar. É essa a fonte das economias de escopo.
 
 As economias de escala e escopo aparecem de forma mais determinante em indústrias
 específicas, as que são mais capital-intensivas, e as de tecnologia mais complexa de
@@ -350,7 +372,7 @@ para o autor, a empresa industrial moderna surge e define sua forma frente ao am
 qual a tecnologia se insere, e à competição, no qual a firma participa para alterar a
 estrutura da indústria.
 
-[[caminho_do_arquivo/esquema.png]]
+caminho_do_arquivo/esquema.png
 
 O modelo tinha como objetivo o lucro no longo prazo, baseado no crescimento no longo
 prazo, porque dependia da criação e da particularmente complicada manutenção --
@@ -435,7 +457,7 @@ Tão caros para explicar a revolução administrativa nas indústrias americanas
 expõe, as economias de escala e escopo são explicadas pelos fatores que determinam os
 limites da firma, melhor compreendidos com a ajuda de um diagrama do prêmio de custo.
 
-[[caminho_do_arquivo/diagrama_costpremium.png]]
+caminho_do_arquivo/diagrama_costpremium.png
 
 Duas dimensões são necessárias para a determinação dos limites da firma. A primeira é
 determinada pelos custos de produção, aquilo que preocupou Adam Smith e os clássicos, e
@@ -494,9 +516,117 @@ das firmas que o compõem individualmente e como sistema.
 /authorcomments2{Bretton Woods foi um sistema que facilitou a aprendizagem porque
 estabilizou o ambiente.}
 
-** Integração vertical
-** Modularidade
+** Integração vertical ou Modularidade?
+
+Podemos compreender a estratégia e a forma das firmas também do ponto de vista de
+organizações como sistemas de processamento de informações. Na interação com o ambiente
+naturalmente incerto, as empresas desenvolvem mecanismos de limitar a variabilidade, o que
+chamamos de "buffering". São três tipos de "buffer" para Spearman: inventário, capacidade
+e tempo. O treinamento de pessoal é uma forma de "buffer" que reduz a variação no
+desempenho do trabalho. Galbraith considera que recursos livres (ou fora de uso) eram uma
+forma de "buffer" no período /antebellum/ dos EUA.
+
+A integração e a administração são tentativas de controlar a variação do fluxo de
+produtos. Como os estágios individuais de produção tendem a se tornar bastante
+padronizados, a tentativa de eliminação da variação centraliza-se no topo hierárquico,
+reforçando sua importância. Se lembrarmos do que se tratam as economias de escala e
+escopo, e a forma de desenvolvimento da empresa moderna industrial, percebemos que a
+integração vertical foi utilizada como "buffer".
+
+A forma de desenvolvimento das modernas empresas industriais que partia de grandes
+estruturas verticalmente integradas era reforçado pelo desenvolvimento de capacidades,
+de forma que as empresas que mais cresciam já eram grandes empresas estabelecidas. O
+crescimento interno da organização adquiria um caráter "path-dependent", e eram as grandes
+corporações que estavam recriando a cadeia de valor sobre novas linhas.
+
+Quando começa o período retratado por Chandler, caem muito os custos de transporte e
+comunicação, mas ao mesmo tempo o ritmo de mudança econômica é muito alto. Na presença de
+altos custos de transação dinâmicos, as firmas optam por integrar verticalmente para criar
+e usar melhor as capacidades necessárias. Os custos de transação dinâmicos eram os custos
+de transmissão do conhecimento embutido nas capacidades: os custos de persuasão,
+negociação, coordenação e treinamento de fornecedores do mercado. Mais fácil de entender,
+eram os "custos de não ter as capacidades quando você precisa".
+
+A partir do fim da Segunda Guerra Mundial, principalmente, torna-se mais comum uma outra
+forma de organização e de produto, os sistemas modulares. Um sistema modular permite a
+construção de um produto pedaço a pedaço, localizado num outro extremo de possibilidades
+em relação às "appliances", que juntavam num único pacote padronizado todos os atributos
+desejados de um produto. No problema dos consumidores eles procuram uma variedade de
+atributos que combinam para formar o produto que melhor se conforma com suas
+preferências. O sistema modular permite uma melhor ocupação do "product space".
+
+Pacotes pré-definidos ("preset"), uma forma mais flexível de venda do produto que permite
+aos consumidores escolher quais atributos deseja de um conjunto de opções apresentadas
+pelos vendedores, são oferecidos numa variedade de indústrias, desde tostadeiras a
+automóveis, entretanto sua oferta é limitada na presença de economias de escala na
+montagem, que resulta na integração de montagem e empacotamento. Junção de atividades é a
+solução quando muitos atributos são não-conflitantes e se sobrepõem para diferentes
+tecnologias de consumo.
+
+A modularidade numa rede descentralizada pode gerar economias externas de escopo, que
+implica na divisão do trabalho entre as firmas quando há padrão de compatibilidade entre
+os competidores, e estimula inovações autônomas que requerem pouca coordenação entre os
+estágios. Na presença de uma situação com alto grau de incerteza tecnológica e de mercado,
+esta forma de organização se torna especialmente importante porque limita o risco
+internalizado pela firma. No sistema modular as aprendizagens por tentativa-e-erro são
+mais rápidas e o sistema pode progredir mais tecnologicamente.
+\authorcomments2{Devo contar as histórias do sistema estéreo e dos microcomputadores como
+exemplos de sistemas modulares?}
+
 ** "The Vanishing Hand"
+
+Galbraith, antes dele Veblen, e depois dele Lazonick, viram o problema da corporação como
+um no qual seria crescente a dependência de planejamento do mercado. As firmas passam de
+uma postura passiva para uma postura ativa em relação aos mercados. Galbraith achava que
+as inovações tecnológicas levavam a mais complexidade e escala. Para dar conta dos
+desafios impostos à estrutura e aos investimentos, o planejamento industrial substituiria
+o mercado para prosseguir o avanço da tecnologia e da especialização.
+
+Contrário a Galbraith, as inovações foram no sentido de diminuir escala no longo prazo (no
+curto prazo era mais provável que as inovações exigessem maior escala). Exemplos são os
+pequenos motores elétricos que substituem a energia a vapor, a Internet e o FedEx. Mesmo
+nos casos que não levam à redução de escala, os custos fixos se tornam cada vez menores em
+relação ao tamanho do mercado.
+/authorcomments2{Expandir esta discussão sobre tecnologia e escala?}
+
+A moderna empresa industrial se notabilizou pelos altos custos fixos que exigia. Custos
+fixos quando considerados como "sunk costs" configuram-se como barreiras à entrada de
+novas firmas na indústria em questão, e diminuem o aspecto competitivo do mercado
+(Baumol). Eles podem ser considerados como "sunk costs" quando o mercado para os ativos
+que integram a estrutura vertical da firma é pequeno. Assim que o mercado expande,
+reduzem-se os benefícios da acumulação destes ativos na estrutura vertical das firmas.
+
+A expansão contínua dos mercados que se intensifica no pós-guerra faz com que surjam novas
+interesses. As mudanças tecnológicas causam alterações nas escassez-relativas de ativos, e
+criam demanda por mudanças institucionais que permitam a exploração de novos "rents"
+econômicos por potenciais inovadores institucionais (Ruttan e Hayami). As mudanças em
+tecnologia e no mercado abrem as possibilidades "rent-seeking" que só podem ser obtidas
+pela desestruturação das estruturas verticais.
+
+Especialmente visíveis a partir de 1990, as firmas passam a se especializar em alguma
+atividade da cadeia produtiva: produção, distribuição, montagem, etc. A especialização ao
+nível das firmas não causam uma diminuição do capital humano, algo previsto por Smith e
+afirmado por Marx. Os serviços nessas firmas são realizados por generalistas, seguindo na
+linha das tecnologias de propósito geral (Helpman). Eles montam qualquer tipo de
+eletrônico, produzem qualquer tipo de farmacêutico, fabricam a partir de qualquer desenho
+de chip. Desta forma são capazes de adicionar demandas e diminuir a variabilidade do
+mercado.
+
+A extensão deste tipo de produção depende de novas instituições sociais, como
+padronizações. A descentralização depende de algum grau de padronização de interfaces
+entre os estágios de produção. Diferentemente da padronização requerida por sistemas
+modulares que envolviam produtos e processos, algo mais abstrato é padronizado: as regras
+de "design".
+
+As firmas integradas se tornam muito rígidas para operar frente às novas demandas e
+tecnologias. Sua crescente divisão vertical do trabalho interno (nas fábricas) para
+aproveitar das economias de escala implicam em máquinas muito específicas para cada
+tarefa. A Ford tinha um grau muito maior de integração e divisão vertical do trabalho,
+enquanto a General Motors optou por uma associação mais fraca e mais diversificada de
+capacidades. Quando a demanda passa a ser por carros novos que substituem os primeiros
+carros dos consumidores, e por novos atributos, a GM se mostra mais flexível e passa a
+dominar o mercado de automóveis. A descentralização diminui muito a necessidade de
+"buffer" quando se reduzem as incertezas associadas à produção em massa.
 
 * TODO Internacionalização
 
