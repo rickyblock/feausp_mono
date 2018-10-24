@@ -13,6 +13,8 @@ Ver https://github.com/rickyblock/feausp_mono/blob/master/esq_chandler.png
 
 A segunda parte trata dos limites da firma, isto é, a extensão das atividades que internaliza, e é determinada por dois tipos de custo, os custos de produção e os custos de transação \autocite{langlois1995firms,langlois2007dynamics}.
 
+* Refs
+
 leijon86: Leijonhufvud. (1986) Capitalism and the Factory System. In: Langlois, R. (Ed.). (1989). Economics as a process: Essays in the new institutional economics. CUP Archive.
 
 rosenberg1982inside: Rosenberg, N. (1982). Inside the black box: technology and economics. Cambridge University Press.
