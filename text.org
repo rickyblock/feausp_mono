@@ -9,6 +9,6 @@ Para realizar esta tarefa, proponho que se tenha em vista as mudanças na organi
 A forma de uma organização do tipo firma é moldada internamente pelo tipo de tecnologia que adota, endógena à indústria que pertence, e externamente pelo ambiente no qual se insere. A firma, por sua vez, altera a estrutura do ambiente, o mercado, num processo dinâmico e evolucionário. A primeira parte, que trata da tecnologia afetando a forma de uma firma, é bastante evidente no que \textcite{chandler1990scale} chama de a "moderna empresa industrial", uma instituição que surge a partir de 1870. A moderna empresa industrial surge em tipos específicos de indústria determinados pela tecnologia que adotam, capital-intensivas. Entre elas estão as indústrias do petróleo, da borracha, dos metais primários, das máquinas não-elétricas, como os automóveis, na indústria química e das máquinas e equipamentos elétricos. Nestas indústrias as firmas se organizaram em grandes estruturas, e se aproveitaram de economias de escala e de escopo, também determinadas pela tecnologia do processo produtivo. A dinâmica Chandleriana se resume na Figura 1.
 
 #+CAPTION: Figura 1. Dinâmica e evolução da organização da firma e do mercado.
-[[~/Documents/fea_usp/esq_chandler.png]]
+Ver https://github.com/rickyblock/feausp_mono/blob/master/esq_chandler.png
 
 A segunda parte trata dos limites da firma, isto é, a extensão das atividades que internaliza, e é determinada por dois tipos de custo, os custos de produção e os custos de transação \autocite{langlois1995firms,langlois2007dynamics}.
