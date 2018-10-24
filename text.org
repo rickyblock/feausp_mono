@@ -1,0 +1,14 @@
+* Proposta
+
+Uma das clássicas críticas que são feitas à escola neoclássica de Economia se refere à forma com que insere a produção em suas análises e teorias. Como \textcite{leijon86} resume, a firma "is more like a recipe for bouillabaisse where all the ingredients are dumped in a pot, (K,L), heated up, f(), and the output, X, is ready." Esta monografia não trata das limitações da escola neoclássica, mas pretende avançar sobre a "black box" \autocite{rosenberg1982inside} e entender como a tecnologia influencia na forma das firmas, e em última instância na estrutura do mercado.
+
+Para realizar esta tarefa, proponho que se tenha em vista as mudanças na organização das firmas e na estrutura dos mercados entre o período do pós-guerra, a "Idade de Ouro", que vai até o fim do sistema Bretton Woods em 1973, e os anos 1990. O período escolhido reflete o interesse pessoal nos anos 1970, anos que marcam a mudança de trajetória de variáveis como desigualdade, e a relação entre salários e produtividade. Este trabalho procura contribuir com a literatura que explora a dinâmica durante estes anos.
+
+* "Teoria"
+
+A forma de uma organização do tipo firma é moldada internamente pelo tipo de tecnologia que adota, endógena à indústria que pertence, e externamente pelo ambiente no qual se insere. A firma, por sua vez, altera a estrutura do ambiente, o mercado, num processo dinâmico e evolucionário. A primeira parte, que trata da tecnologia afetando a forma de uma firma, é bastante evidente no que \textcite{chandler1990scale} chama de a "moderna empresa industrial", uma instituição que surge a partir de 1870. A moderna empresa industrial surge em tipos específicos de indústria determinados pela tecnologia que adotam, capital-intensivas. Entre elas estão as indústrias do petróleo, da borracha, dos metais primários, das máquinas não-elétricas, como os automóveis, na indústria química e das máquinas e equipamentos elétricos. Nestas indústrias as firmas se organizaram em grandes estruturas, e se aproveitaram de economias de escala e de escopo, também determinadas pela tecnologia do processo produtivo. A dinâmica Chandleriana se resume na Figura 1.
+
+#+CAPTION: Figura 1. Dinâmica e evolução da organização da firma e do mercado.
+[[~/Documents/fea_usp/esq_chandler.png]]
+
+A segunda parte trata dos limites da firma, isto é, a extensão das atividades que internaliza, e é determinada por dois tipos de custo, os custos de produção e os custos de transação \autocite{langlois1995firms,langlois2007dynamics}.
